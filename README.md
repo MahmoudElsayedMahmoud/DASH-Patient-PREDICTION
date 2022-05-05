@@ -4,3 +4,7 @@ Naive Bayes model <br>
 KNeighborsClassifier model <br>
 LogisticRegression model <br>
 Dash borad using plotly<br>
+
+
+![Alt Text](./images/img1.gif)
+
